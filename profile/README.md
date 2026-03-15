@@ -1,0 +1,1 @@
+# Panta Rhei\n\nPanta Rhei is a foundational framework built on the τ-kernel.\n\n## Public surfaces\n- Atlas site\n- Books\n- Topics\n- Results\n- Papers\n- Formalization\n- Project\n\n## Contributor spaces\n- TauLib\n- Research\n- Community\n
