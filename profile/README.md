@@ -4,6 +4,16 @@ The Panta Rhei Research Program is an independent open research program dedicate
 
 The public website is the research observatory. GitHub is the public substrate for source, formalization, publication artifacts, engagement, correction, contribution, and review workflows.
 
+## Public research observatory blueprint
+
+Package 3 documents the implementation architecture behind this organization and the public website:
+
+- White paper: https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/
+- Newsroom brief: https://panta-rhei.site/media/public-research-observatory-brief/
+- Inspection Observatory: https://panta-rhei.site/program/about/inspection-observatory/
+
+The blueprint describes GitHub as a source, discussion, correction, and contribution substrate. It does not imply that GitHub, the website architecture, or any infrastructure provider validates the scientific theory.
+
 ## Start here
 
 - Website: https://panta-rhei.site
