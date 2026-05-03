@@ -43,7 +43,7 @@ Publications are the stable artifact layer:
 | [`community`](https://github.com/Panta-Rhei-Research/community) | Public engagement hub: onboarding, routing, discussion guidelines, review guides, and contribution policies. |
 | [`.github`](https://github.com/Panta-Rhei-Research/.github) | Organization profile and shared community-health defaults. |
 | [`books`](https://github.com/Panta-Rhei-Research/books) | Legacy / archival book publication surface; current artifacts live in `publications`. |
-| [`formalization`](https://github.com/Panta-Rhei-Research/formalization) | Archived transitional formalization surface; superseded by `taulib` for live formalization. |
+| `formalization` | Archived transitional formalization surface; superseded by `taulib` for live formalization. |
 
 ## This repository contains
 
