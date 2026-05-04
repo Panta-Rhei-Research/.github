@@ -20,7 +20,7 @@ You don't need to agree with the framework to engage — curiosity, scrutiny, or
 
 — Thorsten & Anna-Sophie
 
-> The architecture behind this organization is documented separately in the [Public Research Observatory white paper](https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/), the [Newsroom brief](https://panta-rhei.site/media/public-research-observatory-brief/), and the [Inspection Observatory page](https://panta-rhei.site/program/about/inspection-observatory/). GitHub does not validate the scientific theory; it carries the source, the formalization, and the conversation.
+> If you'd like a sense of how this is set up, the white paper [*Building a Public Research Observatory*](https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/) walks through the architecture. GitHub carries the source, the formalization, and the conversation; it does not validate the scientific theory.
 
 ## 🎯 Start Here
 
