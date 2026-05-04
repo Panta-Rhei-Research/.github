@@ -4,15 +4,23 @@ The Panta Rhei Research Program is an independent open research program dedicate
 
 The public website is the research observatory. GitHub is the public substrate for source, formalization, publication artifacts, engagement, correction, contribution, and review workflows.
 
-## 🌐 Public Research Observatory Blueprint
+## Welcome
 
-Package 3 documents the implementation architecture behind this organization and the public website:
+We — Thorsten and Anna-Sophie — built this organization as the public substrate for the program. The website at [panta-rhei.site](https://panta-rhei.site) is the research observatory; this GitHub org is where the source, formalization, artifacts, and conversation happen in the open.
 
-- White paper: https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/
-- Newsroom brief: https://panta-rhei.site/media/public-research-observatory-brief/
-- Inspection Observatory: https://panta-rhei.site/program/about/inspection-observatory/
+If you've found your way here, the easiest first move is the [public Discussions board](https://github.com/orgs/Panta-Rhei-Research/discussions) — ask anything, including hard or critical questions. We read what gets posted there.
 
-The blueprint describes GitHub as a source, discussion, correction, and contribution substrate. It does not imply that GitHub, the website architecture, or any infrastructure provider validates the scientific theory.
+For more concrete engagement:
+
+- 🐛 **Found a defect or have a correction to suggest?** Open an issue on the relevant repo (`site`, `taulib`, `publications`, `research`, or `community`).
+- 🔁 **Want to propose a change?** Open a pull request against the relevant repo.
+- 📬 **Private, institutional, media, or sensitive contact?** Email [`hello@panta-rhei.site`](mailto:hello@panta-rhei.site).
+
+You don't need to agree with the framework to engage — curiosity, scrutiny, or pure skepticism are equally good reasons to be here. *Participation does not imply endorsement.*
+
+— Thorsten & Anna-Sophie
+
+> If you'd like a sense of how this is set up, the white paper [*Building a Public Research Observatory*](https://panta-rhei.site/publications/white-papers/building-a-public-research-observatory/) walks through the architecture. GitHub carries the source, the formalization, and the conversation; it does not validate the scientific theory.
 
 ## 🎯 Start Here
 
