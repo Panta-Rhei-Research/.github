@@ -31,9 +31,9 @@ The public research system is organized around:
 
 - **Discover** — first-contact orientation into the research system.
 - **Program** — identity, doctrine, scope, status, and scrutiny posture.
-- **Agenda** — obligations: Structural Challenge Ledger, Core Semantics & Recovery, Kernel/Model/Reality, and Construction Roadmap.
+- **Agenda** — obligations: Core Semantics, Structural Challenge Ledger, Kernel/Model/Reality, and Construction Roadmap.
 - **Corpus** — construction body: Construction Spine, Registry, TauLib projection, books, and dependency graph.
-- **Results** — consequence layer: Landmark Results, World Readouts, Challenge Responses, Core Semantics & Recovery Status, Additional Derived Results, and Progress Against Agenda.
+- **Results** — consequence layer: Landmark Results, World Readouts, Challenge Responses, Core Semantics Status, Additional Derived Results, and Progress Against Agenda.
 - **Verify** — inspection routes: formalization, construction-step verification, bridge checks, predictions, falsification, release manifest, and assessment protocols.
 - **Impact** — conditional public relevance if the work survives inspection.
 - **Engage** — structured scrutiny, correction, contribution, communication, and participation without requiring endorsement.
